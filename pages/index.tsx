@@ -1,5 +1,5 @@
 const index = () => {
-  console.log( 'ok' );
+  console.log('ok');
   return (
     <div>
       <h1>ok</h1>
